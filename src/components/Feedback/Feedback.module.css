@@ -1,0 +1,14 @@
+.Statistic {
+  padding: 0 40px;
+}
+.feedbackBtn {
+  margin-right: 5px;
+  background-color: transparent;
+  cursor: pointer;
+  width: 75px;
+  border-radius: 5px;
+}
+
+.feedbackBtn:hover {
+  background-color: gainsboro;
+}
